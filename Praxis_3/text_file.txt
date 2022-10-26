@@ -1,5 +1,0 @@
-Flat is better than nested.
-Errors should never pass silently.
-Although that way may not be obvious at first unless you're Dutch.
-Now is better than never.
-Namespaces are one honking great idea -- let's do more of those!
